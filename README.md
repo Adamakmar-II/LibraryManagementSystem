@@ -83,12 +83,10 @@ The following NuGet packages are used in this project.
 | Swashbuckle.AspNetCore | 6.6.2 | Swagger UI for API documentation |
 | System.IdentityModel.Tokens.Jwt | 7.6.3 | JWT token creation and validation |
 ```
-
+```
 ### dotnet restore
 
 ```bash
-# All packages are already defined in the .csproj file
-# Just run this to install all at once
 dotnet restore
 ```
 
